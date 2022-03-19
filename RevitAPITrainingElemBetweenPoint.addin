@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Command">
+    <Assembly>"C:\Program Files\RevitAPITrainig\RevitAPITrainingElemBetweenPoint.dll"</Assembly>
+    <AddInId>9EC35F13-158B-467C-9ACC-A2C63C1F4CAE</AddInId>
+    <FullClassName>RevitAPITrainingElemBetweenPoint.Main</FullClassName>
+    <VendorId>ADSK</VendorId>
+    <Text>Создание мебели между точками</Text>
+  </AddIn>
+</RevitAddIns>
